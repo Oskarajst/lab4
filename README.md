@@ -1,2 +1,1 @@
-# lab4
-torneos
+Oskar Sanchez 26923
